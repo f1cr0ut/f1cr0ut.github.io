@@ -1,0 +1,39 @@
+body {
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+  background-color: #ffffff;
+}
+
+hr.half {
+  width: 100%;
+  text-align: left;
+  margin-left: 0px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 0;
+  height: 1px;
+  background-image: -webkit-linear-gradient(left, rgba(0,0,0,1), rgba(0,0,0,0.1));
+  background-image:    -moz-linear-gradient(left, rgba(0,0,0,1), rgba(0,0,0,0.1));
+  background-image:     -ms-linear-gradient(left, rgba(0,0,0,1), rgba(0,0,0,0.1));
+  background-image:      -o-linear-gradient(left, rgba(0,0,0,1), rgba(0,0,0,0.1));
+}
+
+div.main {
+  width: 800px;
+  margin: 0 auto;
+}
+
+div.rale {
+  font-family: 'Raleway', sans-serif;
+}
+
+p.normal {
+  font-family: 'Raleway', sans-serif;
+}
+
+p.small {
+  font-family: 'Raleway', sans-serif;
+  font-size: small;
+}
