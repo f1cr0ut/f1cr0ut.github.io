@@ -20,11 +20,6 @@ hr.half {
   background-image:      -o-linear-gradient(left, rgba(0,0,0,1), rgba(0,0,0,0.1));
 }
 
-div.main {
-  width: 800px;
-  margin: 0 auto;
-}
-
 div.rale {
   font-family: 'Raleway', sans-serif;
 }
